@@ -1,1 +1,15 @@
 @import "tailwindcss"
+
+@theme {
+    --breakpoint-xs: 576px;
+}
+/* @media screen and (max-width:576px) {
+    .bg-hero{
+        width: cover;
+    }
+    .bg-circle{
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+    }
+} */
